@@ -12,7 +12,7 @@ $name = "BSCpE 4B";
 <body>
 
     <h1>Hello, <?php echo $name; ?>!</h1>
-    <p>Version 4 of our project</p>
+    <p>Version 5 of our project</p>
 
 </body>
 </html>
