@@ -11,7 +11,7 @@ $name = "BSCpE 4B";
 </head>
 <body>
 
-    <h1>Hello, <?php echo $name; ?>!</h1>
+    <h1>Hi, <?php echo $name; ?>!</h1>
     <p>Version 5 of our project</p>
 
 </body>
